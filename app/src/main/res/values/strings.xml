@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="name">Name</string>
+    <string name="country">+65</string>
+    <string name="num">num</string>
+</resources>
